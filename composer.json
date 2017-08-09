@@ -1,0 +1,15 @@
+{
+    "name": "vendor/dtdatamysql",
+    "description": "Connection to db struture, form DTPDO.",
+    "authors": [
+        {
+            "name": "DTMind",
+            "email": "develop@dtmind.com"
+        },
+        {
+            "name": "Stefano",
+            "email": "stefano@oggioni.net"
+        }        
+    ],
+    "require": {}
+}
