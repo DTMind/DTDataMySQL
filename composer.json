@@ -1,6 +1,10 @@
 {
-    "name": "vendor/dtdatamysql",
+    "name": "dtmind/dtdatamysql",
+    "type": "library",
     "description": "Connection to db struture, form DTPDO.",
+    "keywords": ["pdo","model"],
+    "homepage": "http://www.dtmind.com/dtpdo/",    
+    "license": "MIT",
     "authors": [
         {
             "name": "DTMind",
@@ -11,5 +15,7 @@
             "email": "stefano@oggioni.net"
         }        
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
