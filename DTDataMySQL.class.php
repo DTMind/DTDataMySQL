@@ -1,7 +1,8 @@
 <?php
 /**
  * DTDataMySQL Class <http://www.dtmind.com>
- *
+ * Connection to db struture, form DTPDO
+ * 
  * @version             version 1.00, 15/12/2016
  * @author		DTMind.com <develop@dtmind.com>
  * @author		Stefano Oggioni <stefano@oggioni.net>
