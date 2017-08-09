@@ -1,7 +1,6 @@
 <?php
 /**
- * DTPDO Class <http://www.dtmind.com>
- * Extends php PDO functions and let you create CRUD query with arrays for records and data
+ * DTDataMySQL Class <http://www.dtmind.com>
  *
  * @version             version 1.00, 15/12/2016
  * @author		DTMind.com <develop@dtmind.com>
