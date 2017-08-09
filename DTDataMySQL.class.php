@@ -1,4 +1,16 @@
 <?php
+/**
+ * DTPDO Class <http://www.dtmind.com>
+ * Extends php PDO functions and let you create CRUD query with arrays for records and data
+ *
+ * @version             version 1.00, 15/12/2016
+ * @author		DTMind.com <develop@dtmind.com>
+ * @author		Stefano Oggioni <stefano@oggioni.net>
+ * @link 		https://github.com/DTMind/DTDataMySQL
+ * @link 		http://www.dtmind.com/
+ * @license		This software is licensed under the MIT license, http://opensource.org/licenses/MIT
+ *
+ */
 
 class DTDataMySQL {
 
